@@ -62,3 +62,21 @@ Se puede ejecutar con npm configurando en el archivo package.json en la parte de
 
 `npm install --save-dev --save-exact webpack-dev-server`
 
+## Soportar javascript moderno
+
+Instalar babel/core babel/preset-env babel-loader
+
+`npm install -D --save-exact @babel/core babel-loader @babel/preset-env`
+
+Intalar plugin para complementar la funcionalidad de babel
+
+`npm install --save --save-exact @babel/runtime`
+
+## Instalar url-loader
+
+ `npm install --save-dev --save-exact url-loader`
+
+## Instalar file-loader
+
+`npm install --save-dev --save-exact file-loader`
+
