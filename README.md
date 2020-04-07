@@ -80,3 +80,17 @@ Intalar plugin para complementar la funcionalidad de babel
 
 `npm install --save-dev --save-exact file-loader`
 
+## Estilos con preprocesadores
+
+sass-loader
+stylus-loader
+ less-loader
+ potcss-loader
+ 
+ `npm install --save-dev --save-exact [preprocesador-a-utilizar]`
+ 
+ Para utilizar los preprocesadores SASS, LESS o STYLUS, estos deben estar preinstalados en el proyecto.
+ 
+ Para instalarlos usamos el siguiente comando
+ 
+ `npm install --save-dev --save-exact [stylus less node-sass]`

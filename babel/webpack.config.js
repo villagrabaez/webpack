@@ -25,6 +25,7 @@ module.exports = {
           // {
           //   loader: MiniCSSExtractPlugin.loader
           // },
+          
           'style-loader', // inyecta el codigo css en el archivo HTML
           'css-loader' // entiende que podemos tener CSS dentro de JS
         ]
